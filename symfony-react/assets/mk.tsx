@@ -5,11 +5,11 @@ import ReactDOM from 'react-dom';
 import {HashRouter, Route, Switch} from "react-router-dom";
 import AppNavigation from "./mk/shared/AppNavigation";
 
-import 'antd/dist/antd.css';
+// import 'antd/dist/antd.css';
 // import "tailwindcss/tailwind.css";
-import './mk/styles/mk.less';
+import './mk/styles/mk.css';
 
-const {Header, Footer, Sider, Content} = Layout;
+const {Sider, Content} = Layout;
 
 ReactDOM.render(
    <React.StrictMode>
@@ -18,11 +18,13 @@ ReactDOM.render(
             <Sider>
                <AppNavigation/>
             </Sider>
-            <Switch>
-               <Route exact path="/">
-                  <div className={'bg-red-100'}>app</div>
-               </Route>
-            </Switch>
+            <Content>
+               <Switch>
+                  <Route exact path="/">
+                     <div className={'bg-red-100'}>app</div>
+                  </Route>
+               </Switch>
+            </Content>
          </div>
       </HashRouter>
    </React.StrictMode>,
