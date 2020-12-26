@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1059868-87d4-4986-81ca-768cce5d1c09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/template/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/agent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_bigdata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_captcha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/ic_placeholder_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/pic_login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/images/pic_login_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/styles/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/styles/dimens.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/assets/styles/vendor/tailwind.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/AppAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/Dashboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/Entry.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/AppHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/AppLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/AppNavigation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/ConditionSingle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/HalfDoughnut.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/HorizontalPercentage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/LineChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/OrganizeLifeChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/PieChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/PlanChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/shared/charts/VerticalBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/templates/TemplateForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/templates/TemplateTab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/templates/TemplateTabTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/components/templates/TemplateTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/mixins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/.idea/symfony.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/.idea/symfony.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/assets/mk.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/assets/mk.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/assets/mk/shared/AppNavigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/assets/mk/shared/MkNavigation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/assets/mk/styles/mk.css" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/assets/mk/styles/mk.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/src/Controller/MakeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/src/Controller/MakeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-react/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-react/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/template" />
+  </component>
+  <component name="ProjectId" id="1lwgP4gMHGayz1InuU428GztNsg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1059868-87d4-4986-81ca-768cce5d1c09" name="Default Changelist" comment="" />
+      <created>1608513539637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608513539637</updated>
+      <workItem from="1608513540850" duration="1860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

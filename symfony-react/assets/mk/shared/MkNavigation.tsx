@@ -2,10 +2,10 @@ import React from 'react';
 import {observer} from "mobx-react-lite";
 
 
-const AppNavigation = observer(() => {
+const MkNavigation = observer(() => {
    return <div>
 
    </div>
 })
 
-export default AppNavigation
+export default MkNavigation

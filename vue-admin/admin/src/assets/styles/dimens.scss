@@ -1,0 +1,17 @@
+$h-header: 64px;
+$h-breadcrumb: 42px;
+$h-condition: 44px;
+$py-main: 10px;
+$px-main: 20px;
+$mt-content: 10px;
+$h-tab: 40px;
+$h-table-header: 55px;
+$h-table-pager: 64px;
+
+.app-h-tab {
+  height: calc(100vh - #{$h-header} - #{$h-breadcrumb} - #{$py-main * 2} - #{$h-tab});
+}
+.app-h-tree {
+  height: calc(100vh - #{$h-header} - #{$h-breadcrumb} - #{$py-main * 2}) !important;
+  overflow-y: auto;
+}

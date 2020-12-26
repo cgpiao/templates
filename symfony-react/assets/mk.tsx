@@ -3,10 +3,9 @@ import React from 'react';
 import {Layout} from "antd";
 import ReactDOM from 'react-dom';
 import {HashRouter, Route, Switch} from "react-router-dom";
-import AppNavigation from "./mk/shared/AppNavigation";
+import MkNavigation from "./mk/shared/MkNavigation";
 
-// import 'antd/dist/antd.css';
-// import "tailwindcss/tailwind.css";
+import 'antd/dist/antd.css';
 import './mk/styles/mk.css';
 
 const {Sider, Content} = Layout;
@@ -16,7 +15,7 @@ ReactDOM.render(
       <HashRouter basename={''}>
          <div className={'flex'}>
             <Sider>
-               <AppNavigation/>
+               <MkNavigation/>
             </Sider>
             <Content>
                <Switch>

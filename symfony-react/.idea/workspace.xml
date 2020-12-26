@@ -3,14 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d86df296-61a5-456b-8fbb-86b5c11c3e37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mk.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mk/styles/mk.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk/styles/mk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mk/styles/mk.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mk/shared/AppNavigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk/shared/MkNavigation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mk/styles/mk.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk/styles/mk.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/MakeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MakeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +139,10 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
       <path value="$PROJECT_DIR$/vendor/doctrine/common" />
       <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/vendor/symfony/amqp-messenger" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/vendor/symfony/redis-messenger" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ljFCQ9qS9Hul2Ogmd4iOe8ehMB" />
@@ -179,7 +185,12 @@
       <workItem from="1608102466816" duration="7097000" />
       <workItem from="1608120683738" duration="3783000" />
       <workItem from="1608164215230" duration="146000" />
-      <workItem from="1608164431723" duration="4237000" />
+      <workItem from="1608164431723" duration="4856000" />
+      <workItem from="1608171369859" duration="574000" />
+      <workItem from="1608207656416" duration="2362000" />
+      <workItem from="1608250288419" duration="37000" />
+      <workItem from="1608962291214" duration="173000" />
+      <workItem from="1608964421421" duration="845000" />
     </task>
     <servers />
   </component>
