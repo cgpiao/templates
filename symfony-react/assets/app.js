@@ -7,3 +7,5 @@
 
 // start the Stimulus application
 import './bootstrap';
+import "./styles/_custom_bootstrap.scss";
+import "./styles/_custom_tailwind.scss";

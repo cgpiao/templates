@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86df296-61a5-456b-8fbb-86b5c11c3e37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mk.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mk/shared/AppNavigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk/shared/MkNavigation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mk/styles/mk.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mk/styles/mk.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/MakeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MakeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../symfony-api" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-admin/template" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-admin/template" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +181,7 @@
       <workItem from="1608207656416" duration="2362000" />
       <workItem from="1608250288419" duration="37000" />
       <workItem from="1608962291214" duration="173000" />
-      <workItem from="1608964421421" duration="845000" />
+      <workItem from="1608964421421" duration="931000" />
     </task>
     <servers />
   </component>
